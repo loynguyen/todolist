@@ -1,0 +1,6 @@
+div {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid orangered;
+    background-color: paleturquoise;
+}
